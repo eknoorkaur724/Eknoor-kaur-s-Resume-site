@@ -1,0 +1,58 @@
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  body {
+    background-color: #ffd2f4;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  header {
+    background-color: #fda4e4;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  nav {
+    margin-top: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Section spacing */
+  section {
+    padding: 40px 20px;
+  }
+  
+  .card {
+    background: #f9f9f9;
+    padding: 20px;
+    border-left: 5px solid #fc73e1;
+    margin-top: 20px;
+  }
+  
+  ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+  footer {
+    background: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+  }
